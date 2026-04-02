@@ -1,0 +1,72 @@
+{
+  "days": [
+    {
+      "date": "2026-04-02",
+      "day_number": 1,
+      "week_number": 1,
+      "key": "F",
+      "progression": "ii \u2013 V \u2013 I",
+      "stage": "Basic Triads",
+      "levels": [
+        "basic"
+      ],
+      "chords": [
+        "Gm7",
+        "C7",
+        "Fmaj7"
+      ],
+      "file": "days/2026-04-02.html"
+    },
+    {
+      "date": "2026-04-03",
+      "day_number": 2,
+      "week_number": 1,
+      "key": "Bb",
+      "progression": "ii \u2013 V \u2013 I",
+      "stage": "Basic Triads",
+      "levels": [
+        "basic"
+      ],
+      "chords": [
+        "Cm7",
+        "F7",
+        "Bbmaj7"
+      ],
+      "file": "days/2026-04-03.html"
+    },
+    {
+      "date": "2026-04-04",
+      "day_number": 3,
+      "week_number": 1,
+      "key": "G",
+      "progression": "ii \u2013 V \u2013 I",
+      "stage": "Basic Triads",
+      "levels": [
+        "basic"
+      ],
+      "chords": [
+        "Am7",
+        "D7",
+        "Gmaj7"
+      ],
+      "file": "days/2026-04-04.html"
+    },
+    {
+      "date": "2026-04-05",
+      "day_number": 4,
+      "week_number": 1,
+      "key": "F",
+      "progression": "ii \u2013 V \u2013 I",
+      "stage": "Basic Triads",
+      "levels": [
+        "basic"
+      ],
+      "chords": [
+        "Gm7",
+        "C7",
+        "Fmaj7"
+      ],
+      "file": "days/2026-04-05.html"
+    }
+  ]
+}
