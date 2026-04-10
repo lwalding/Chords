@@ -139,6 +139,23 @@
         "C7"
       ],
       "file": "days/2026-04-09.html"
+    },
+    {
+      "date": "2026-04-10",
+      "day_number": 9,
+      "week_number": 2,
+      "key": "F",
+      "progression": "Blues (I \u2013 IV \u2013 V)",
+      "stage": "Basic Voicings",
+      "levels": [
+        "basic"
+      ],
+      "chords": [
+        "F7",
+        "Bb7",
+        "C7"
+      ],
+      "file": "days/2026-04-10.html"
     }
   ]
 }
