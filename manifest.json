@@ -173,6 +173,23 @@
         "A7"
       ],
       "file": "days/2026-04-11.html"
+    },
+    {
+      "date": "2026-04-12",
+      "day_number": 11,
+      "week_number": 2,
+      "key": "Eb",
+      "progression": "Blues (I \u2013 IV \u2013 V)",
+      "stage": "Basic Voicings",
+      "levels": [
+        "basic"
+      ],
+      "chords": [
+        "Eb7",
+        "Ab7",
+        "Bb7"
+      ],
+      "file": "days/2026-04-12.html"
     }
   ]
 }
