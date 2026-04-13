@@ -190,6 +190,24 @@
         "Bb7"
       ],
       "file": "days/2026-04-12.html"
+    },
+    {
+      "date": "2026-04-13",
+      "day_number": 12,
+      "week_number": 2,
+      "key": "G",
+      "progression": "I \u2013 vi \u2013 ii \u2013 V",
+      "stage": "Basic Voicings",
+      "levels": [
+        "basic"
+      ],
+      "chords": [
+        "Gmaj7",
+        "Em7",
+        "Am7",
+        "D7"
+      ],
+      "file": "days/2026-04-13.html"
     }
   ]
 }
