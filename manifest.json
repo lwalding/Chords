@@ -279,6 +279,25 @@
         "Bbmaj7"
       ],
       "file": "days/2026-04-17.html"
+    },
+    {
+      "date": "2026-04-18",
+      "day_number": 17,
+      "week_number": 3,
+      "key": "G",
+      "progression": "I \u2013 vi \u2013 ii \u2013 V",
+      "stage": "Shell Voicings",
+      "levels": [
+        "basic",
+        "intermediate"
+      ],
+      "chords": [
+        "Gmaj7",
+        "Em7",
+        "Am7",
+        "D7"
+      ],
+      "file": "days/2026-04-18.html"
     }
   ]
 }
